@@ -13,6 +13,9 @@ module.exports = {
       fontFamily: {
         outfit: ["Outfit", "sans serif"],
       },
+      backgroundImage: {
+        "eye-icon": "url('./images/icon-view.svg')",
+      },
     },
   },
   plugins: [],
