@@ -11,7 +11,7 @@ module.exports = {
         "very-dark-blue-line": "hsl(215, 32%, 27%)",
       },
       fontFamily: {
-        outfit: ["Outfit", sans - serif],
+        outfit: ["Outfit", "sans serif"],
       },
     },
   },
